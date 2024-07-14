@@ -5,8 +5,7 @@ const Dropdown2 = () => {
     return (
         <div className={d.body}>
             <nav>
-                <img src="./logo.svg" />
-                <h1>Pexels</h1>
+
                 <ul className={d.links}>
                     <li>
                         <a>Upload</a>
